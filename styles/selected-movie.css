@@ -48,8 +48,9 @@
     margin-bottom: 30px;
 }
 .button_play, .button_my-list {
-    font-size: 10px;
+    font-size: 15px;
     font-family: 'Open Sans';
+    font-weight: 600;
     color: rgb(255, 255, 255);
     background-color: rgba(104, 101, 101, 0.5);
     border: none;
@@ -63,6 +64,7 @@
 }
 .button:hover {
     background-color: rgb(229,9,19);
+    color: black;
 }
 .button_play:hover, .button_my-list:hover {
     cursor: pointer;
