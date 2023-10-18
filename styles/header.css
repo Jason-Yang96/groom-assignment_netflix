@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+.header-logo {
+    height: 50px;
+    margin-left: 10px;
+}
+.header-avatar {
+    height: 20px;
+    margin-right: 10px;
+}
+
