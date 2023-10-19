@@ -9,13 +9,13 @@
 }
 .movie-array_movies-container{
     display: flex;
-    /* justify-content: center; */
     flex-wrap: wrap;
 }
 .movie-array_movie {
     height: 200px;
     width: 140px;
     margin: 10px 10px 0px 10px;
+    border-radius: 5%;
 }
 .movie-array_movie:hover {
     scale: 1.1;
